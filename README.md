@@ -1,2 +1,2 @@
-# IMU50_F407VETX
-IMU
+CAN总线收发
+IMU串口中断读数据
